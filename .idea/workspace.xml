@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abcd2f1f-75b1-4a10-a3a3-41c95d780bd7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/parameters_args_kwargs/argv_n_kwargs.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mUPGO02Sa7okiaur2X4L2AQGPf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/parameters_args_kwargs/argv_n_kwargs.py" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="python_snip_it" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jenki\Documents\code\_2021\python_snip_it\python_snip_it\.venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/parameters_args_kwargs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parameters_args_kwargs/argv_n_kwargs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="argv_n_kwargs" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_snip_it" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jenki\Documents\code\_2021\python_snip_it\python_snip_it\.venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/parameters_args_kwargs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parameters_args_kwargs/argv_n_kwargs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abcd2f1f-75b1-4a10-a3a3-41c95d780bd7" name="Default Changelist" comment="" />
+      <created>1609545099420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609545099420</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4091" y="1155" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609546099220">
+      <screen x="3840" y="1065" width="1536" height="819" />
+    </state>
+    <state x="4091" y="1155" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.1065.1536.819/0.0.2560.1403@3840.1065.1536.819" timestamp="1609546099220" />
+    <state x="4416" y="1275" key="FileChooserDialogImpl" timestamp="1609546051064">
+      <screen x="3840" y="1065" width="1536" height="819" />
+    </state>
+    <state x="4416" y="1275" key="FileChooserDialogImpl/3840.1065.1536.819/0.0.2560.1403@3840.1065.1536.819" timestamp="1609546051064" />
+    <state width="1414" height="191" key="GridCell.Tab.0.bottom" timestamp="1609648191648">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state width="1414" height="191" key="GridCell.Tab.0.bottom/3840.1065.1536.819/0.0.2560.1403@0.0.2560.1403" timestamp="1609648191648" />
+    <state width="1414" height="191" key="GridCell.Tab.0.bottom/3840.1065.1536.819/0.0.2560.1403@3840.1065.1536.819" timestamp="1609546155176" />
+    <state width="1414" height="191" key="GridCell.Tab.0.center" timestamp="1609648191648">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state width="1414" height="191" key="GridCell.Tab.0.center/3840.1065.1536.819/0.0.2560.1403@0.0.2560.1403" timestamp="1609648191648" />
+    <state width="1414" height="191" key="GridCell.Tab.0.center/3840.1065.1536.819/0.0.2560.1403@3840.1065.1536.819" timestamp="1609546155176" />
+    <state width="1414" height="191" key="GridCell.Tab.0.left" timestamp="1609648191648">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state width="1414" height="191" key="GridCell.Tab.0.left/3840.1065.1536.819/0.0.2560.1403@0.0.2560.1403" timestamp="1609648191648" />
+    <state width="1414" height="191" key="GridCell.Tab.0.left/3840.1065.1536.819/0.0.2560.1403@3840.1065.1536.819" timestamp="1609546155175" />
+    <state width="1414" height="191" key="GridCell.Tab.0.right" timestamp="1609648191648">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state width="1414" height="191" key="GridCell.Tab.0.right/3840.1065.1536.819/0.0.2560.1403@0.0.2560.1403" timestamp="1609648191648" />
+    <state width="1414" height="191" key="GridCell.Tab.0.right/3840.1065.1536.819/0.0.2560.1403@3840.1065.1536.819" timestamp="1609546155176" />
+  </component>
+</project>
