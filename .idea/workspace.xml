@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abcd2f1f-75b1-4a10-a3a3-41c95d780bd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/parameters_args_kwargs/argv_n_kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RND/check_file_exists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RND/download_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +33,34 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/parameters_args_kwargs/argv_n_kwargs.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RND/error_check.py" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.RND">
+    <configuration name="RND" type="PythonConfigurationType" factoryName="Python">
+      <module name="python_snip_it" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jenki\Documents\code\_2021\python_snip_it\python_snip_it\.venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RND" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\jenki\Documents\code\_2021\python_snip_it\python_snip_it\RND\check_file_exists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="python_snip_it" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,6 +103,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.argv_n_kwargs" />
+      <item itemvalue="Python.RND" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -94,33 +122,39 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="4091" y="1155" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609546099220">
-      <screen x="3840" y="1065" width="1536" height="819" />
+    <state x="418" y="154" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609734858744">
+      <screen x="0" y="0" width="2560" height="1403" />
     </state>
+    <state x="418" y="154" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.1065.1536.819/0.0.2560.1403@0.0.2560.1403" timestamp="1609734858744" />
     <state x="4091" y="1155" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.1065.1536.819/0.0.2560.1403@3840.1065.1536.819" timestamp="1609546099220" />
-    <state x="4416" y="1275" key="FileChooserDialogImpl" timestamp="1609546051064">
-      <screen x="3840" y="1065" width="1536" height="819" />
+    <state x="960" y="360" key="FileChooserDialogImpl" timestamp="1609734855753">
+      <screen x="0" y="0" width="2560" height="1403" />
     </state>
+    <state x="960" y="360" key="FileChooserDialogImpl/3840.1065.1536.819/0.0.2560.1403@0.0.2560.1403" timestamp="1609734855753" />
     <state x="4416" y="1275" key="FileChooserDialogImpl/3840.1065.1536.819/0.0.2560.1403@3840.1065.1536.819" timestamp="1609546051064" />
-    <state width="1414" height="191" key="GridCell.Tab.0.bottom" timestamp="1609648191648">
+    <state width="1414" height="312" key="GridCell.Tab.0.bottom" timestamp="1609735567971">
       <screen x="0" y="0" width="2560" height="1403" />
     </state>
-    <state width="1414" height="191" key="GridCell.Tab.0.bottom/3840.1065.1536.819/0.0.2560.1403@0.0.2560.1403" timestamp="1609648191648" />
+    <state width="1414" height="312" key="GridCell.Tab.0.bottom/3840.1065.1536.819/0.0.2560.1403@0.0.2560.1403" timestamp="1609735567971" />
     <state width="1414" height="191" key="GridCell.Tab.0.bottom/3840.1065.1536.819/0.0.2560.1403@3840.1065.1536.819" timestamp="1609546155176" />
-    <state width="1414" height="191" key="GridCell.Tab.0.center" timestamp="1609648191648">
+    <state width="1414" height="312" key="GridCell.Tab.0.center" timestamp="1609735567971">
       <screen x="0" y="0" width="2560" height="1403" />
     </state>
-    <state width="1414" height="191" key="GridCell.Tab.0.center/3840.1065.1536.819/0.0.2560.1403@0.0.2560.1403" timestamp="1609648191648" />
+    <state width="1414" height="312" key="GridCell.Tab.0.center/3840.1065.1536.819/0.0.2560.1403@0.0.2560.1403" timestamp="1609735567971" />
     <state width="1414" height="191" key="GridCell.Tab.0.center/3840.1065.1536.819/0.0.2560.1403@3840.1065.1536.819" timestamp="1609546155176" />
-    <state width="1414" height="191" key="GridCell.Tab.0.left" timestamp="1609648191648">
+    <state width="1414" height="312" key="GridCell.Tab.0.left" timestamp="1609735567971">
       <screen x="0" y="0" width="2560" height="1403" />
     </state>
-    <state width="1414" height="191" key="GridCell.Tab.0.left/3840.1065.1536.819/0.0.2560.1403@0.0.2560.1403" timestamp="1609648191648" />
+    <state width="1414" height="312" key="GridCell.Tab.0.left/3840.1065.1536.819/0.0.2560.1403@0.0.2560.1403" timestamp="1609735567971" />
     <state width="1414" height="191" key="GridCell.Tab.0.left/3840.1065.1536.819/0.0.2560.1403@3840.1065.1536.819" timestamp="1609546155175" />
-    <state width="1414" height="191" key="GridCell.Tab.0.right" timestamp="1609648191648">
+    <state width="1414" height="312" key="GridCell.Tab.0.right" timestamp="1609735567971">
       <screen x="0" y="0" width="2560" height="1403" />
     </state>
-    <state width="1414" height="191" key="GridCell.Tab.0.right/3840.1065.1536.819/0.0.2560.1403@0.0.2560.1403" timestamp="1609648191648" />
+    <state width="1414" height="312" key="GridCell.Tab.0.right/3840.1065.1536.819/0.0.2560.1403@0.0.2560.1403" timestamp="1609735567971" />
     <state width="1414" height="191" key="GridCell.Tab.0.right/3840.1065.1536.819/0.0.2560.1403@3840.1065.1536.819" timestamp="1609546155176" />
+    <state x="898" y="576" key="com.intellij.ide.util.TipDialog" timestamp="1609724417388">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state x="898" y="576" key="com.intellij.ide.util.TipDialog/3840.1065.1536.819/0.0.2560.1403@0.0.2560.1403" timestamp="1609724417388" />
   </component>
 </project>
